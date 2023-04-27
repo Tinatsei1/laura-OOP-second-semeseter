@@ -1,0 +1,14 @@
+{
+    "firstName": "laura",
+    "lastName": "Manhondo",
+    "gender": "female",
+    "age": 20,
+    "address": {
+        "streetAddress": "90",
+        "city": "wroclaw",
+        
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
